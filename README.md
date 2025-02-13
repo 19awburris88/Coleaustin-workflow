@@ -1,2 +1,2 @@
 # Coleaustin-workflow
-To improve is to changegit add .
+To improve is to change
